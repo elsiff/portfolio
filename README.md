@@ -60,6 +60,8 @@
 ## :books: Study
 ### Spring
 * [bistroad](https://github.com/elsiff/portfolio#bistroad) 팀 프로젝트 진행을 통해 Spring 프레임워크 실습
+  * 프로토타입 개발을 통해 Spring Data JPA 실습
+  * 아키텍쳐 변경 이후 Spring Data MongoDB 실습
 * [my-todo](https://github.com/elsiff/my-todo) 토이 프로젝트를 통해 WebFlux 기술 실습
 * 개인적인 [Spring 정리](https://docs.google.com/document/d/1Lz9Ca13CtYIKkfaKcjmrDAzOoIkfLidUgZ0Kxza8KhI/edit?usp=sharing)를 통해 Spring 구조 파악 및 기초 지식 습득
 ### Network & Web
