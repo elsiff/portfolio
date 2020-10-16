@@ -5,8 +5,9 @@
 
 ## :clipboard: Projects
 ### bistroad
+> 매장 고객에게 메뉴에 대한 자세한 정보를 제공하는 모바일 메뉴판 플랫폼
 #### :memo: 프로젝트 개요
-* 메뉴 설명과 사진, 리뷰 등 자세한 정보를 제공하는 '모바일 메뉴판 플랫폼' 개발을 주제로한 교내 2020 MY캡스톤 프로젝트
+* 교내 2020 MY캡스톤 프로젝트
 * 소비자는 매장 내 `QR코드`를 통해 웹페이지로 메뉴판을 확인하고, 부가적인 앱 설치를 통해 모바일 기기로 `간단한 주문(결제 없이 점주에게 알림)`을 진행할 수 있음
   * 앱 설치 후, 매장에 들어올 때 푸시 알림으로 메뉴판 안내
   * 앱 설치 후, 매장을 나갈 때 푸시 알림으로 리뷰 작성 유도
@@ -31,8 +32,9 @@
 * https://github.com/Yaneodoo/bistroad-auth-service
 * https://github.com/Yaneodoo/bistroad-swagger-service
 ### smart-healthcare
+> 인공지능 동작 인식과 음식 인식을 활용한 스마트 헬스케어 대사 관리 앱
 #### :memo: 프로젝트 개요
-* 인공지능 동작 인식과 음식 인식을 활용한 '스마트 헬스케어 대사 관리 앱' 개발을 주제로한 교내 2019 산학연계 SW프로젝트
+* 교내 2019 산학연계 SW프로젝트
 * 건강 정보와 식사, 운동 정보를 기록하고 통계와 같은 피드백 제공
 * `대사 관리 기능`: 체중이나 혈압과 같은 사용자 건강 정보 기록 및 BMR, BMI 등의 수치적 피드백 제공
 * `식사 관리 기능`: 날짜별로 식사 기록 관리
@@ -57,6 +59,7 @@
 #### :file_folder: 리포지터리
 * https://github.com/elsiff/smart-healthcare-backend
 * https://github.com/elsiff/smart-healthcare-frontend
+#### 
 ## :books: Study
 ### Spring
 * [bistroad](https://github.com/elsiff/portfolio#bistroad) 팀 프로젝트 진행을 통해 Spring 프레임워크 실습
