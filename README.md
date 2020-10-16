@@ -1,4 +1,8 @@
 # :man_technologist: WooJin Choi (elsiff)
+Spring과 Java/Kotlin에 관심이 많고 새로운 기술을 좋아하는 개발자입니다.
+
+> :email: Contact: <elsiff1002@gmail.com>
+
 ## :clipboard: Projects
 ### bistroad
 #### :memo: 프로젝트 개요
