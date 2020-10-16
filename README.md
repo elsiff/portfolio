@@ -53,3 +53,29 @@
 #### :file_folder: 리포지터리
 * https://github.com/elsiff/smart-healthcare-backend
 * https://github.com/elsiff/smart-healthcare-frontend
+## :books: Study
+### Spring
+* [bistroad](https://github.com/elsiff/portfolio#bistroad) 팀 프로젝트 진행을 통해 Spring 프레임워크 실습
+* [my-todo](https://github.com/elsiff/my-todo) 토이 프로젝트를 통해 WebFlux 기술 실습
+* 개인적인 [Spring 정리](https://docs.google.com/document/d/1Lz9Ca13CtYIKkfaKcjmrDAzOoIkfLidUgZ0Kxza8KhI/edit?usp=sharing)를 통해 Spring 구조 파악 및 기초 지식 습득
+### Network & Web
+* 교내 '컴퓨터 네트워크' 강의로 기초 지식 공부
+  * TIME_WAIT/CLOSE_WAIT을 발생시키는 Socket 프로그래밍 실습을 통해 TCP 핸드셰이킹 구조 파악과 `close()` 시스템 콜에 대한 중요성 학습
+  * Wireshark를 통한 Packet Sniffing 실습을 통해 패킷 암호화에 대한 중요성 학습
+* 교내 '데이터베이스' 강의로 Servlet과 JSP에 대한 기초 지식 공부
+  * 교내 종합정보서비스 모방 프로젝트를 통해 JSP로 게시판 구현과 이메일/SMS 전송 기능 개발 실습
+* 개인적인 [네트워크 & 웹 정리](https://docs.google.com/document/d/1LSv7qkLjnOE8lAZu5mOOG8l0920goMBbJnnqbahe3Z4/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
+### Operating System
+* 교내 '운영체제' 강의로 기초 지식 공부
+* 개인적인 [운영체제 정리](https://docs.google.com/document/d/1LWdCsDp_abuD6ZShF2KqHeCaDxC1vrBG0hF0inU0xCg/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
+### Database
+* 교내 '데이터베이스' 강의로 기초 지식 공부
+  * 교내 종합정보서비스 모방 프로젝트를 통해 ER 다이어그램 작성과 스키마 정규화 실습
+* 개인적인 [데이터베이스 정리](https://docs.google.com/document/d/1xPoOrGGuUg6owsJ3KAkLIDog7W9owVkr2sw52me6k8w/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
+### Algorithm & Data Structure
+* 교내 '자료구조' 강의로 기초 지식 공부
+  * 연산자 우선순위가 주어진 계산기 구현 과제를 통해 Stack에 대한 이해와 계산기 구현 전략 습득
+* 교내 '알고리즘' 강의로 기초 지식 공부
+  * 'The Swapping Puzzle' 과제를 통해 Backtracking 문제 풀이에 대한 전략 습득
+* 백준, 프로그래머스 등 온라인 알고리즘 풀이 서비스를 통해 여러 유형의 알고리즘 문제들에 대한 전략 습득
+* 개인적인 [알고리즘 & 자료구조 정리](https://docs.google.com/document/d/1r6HoFspymTdsQfB1ufw7Cs7S1IlbCWlytFZCsgSgkuw/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
