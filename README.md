@@ -34,7 +34,7 @@
 ### :page_with_curl: 프로젝트 자료
 * [서버 아키텍처 PPT](https://docs.google.com/presentation/d/1vgY--YyjGVBMTqIM3flq-QPgODX_Z4hH4OdQp8gFeaM/edit?usp=sharing)
 ## smart-healthcare
-> 인공지능 동작 인식과 음식 인식을 활용한 스마트 헬스케어 대사 관리 앱
+> 인공지능 동작 인식과 음식 인식을 활용한 스마트 헬스케어 대사 관리 플랫폼
 ### :memo: 프로젝트 개요
 * 교내 2019 산학연계 SW프로젝트
 * 건강 정보와 식사, 운동 정보를 기록하고 통계와 같은 피드백 제공
