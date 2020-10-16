@@ -31,6 +31,8 @@
 * https://github.com/Yaneodoo/bistroad-review-service
 * https://github.com/Yaneodoo/bistroad-auth-service
 * https://github.com/Yaneodoo/bistroad-swagger-service
+### :page_with_curl: 프로젝트 자료
+* [서버 아키텍처 PPT](https://docs.google.com/presentation/d/1vgY--YyjGVBMTqIM3flq-QPgODX_Z4hH4OdQp8gFeaM/edit?usp=sharing)
 ## smart-healthcare
 > 인공지능 동작 인식과 음식 인식을 활용한 스마트 헬스케어 대사 관리 앱
 ### :memo: 프로젝트 개요
