@@ -70,7 +70,7 @@
 * 개인적인 [Spring 정리](https://docs.google.com/document/d/1Lz9Ca13CtYIKkfaKcjmrDAzOoIkfLidUgZ0Kxza8KhI/edit?usp=sharing)를 통해 Spring 구조 파악 및 기초 지식 습득
 ## Network & Web
 * 교내 '컴퓨터 네트워크' 강의로 기초 지식 공부
-  * `TIME_WAIT/CLOSE_WAIT`을 발생시키는 Socket 프로그래밍 실습을 통해 TCP 핸드셰이킹 구조 파악과 `close()` 시스템 콜에 대한 중요성 학습
+  * `TIME_WAIT/CLOSE_WAIT`을 발생시키는 Socket 프로그래밍 실습을 통해 TCP 핸드셰이킹 구조 파악 및 `TIME_WAIT`과 `CLOSE_WAIT`의 발생 원인에 대해 학습
   * Wireshark를 통한 Packet Sniffing 실습을 통해 패킷 암호화에 대한 중요성 학습
 * 교내 '데이터베이스' 강의로 Servlet과 JSP에 대한 기초 지식 공부
   * 교내 종합정보서비스 모방 프로젝트를 통해 JSP로 게시판 구현과 이메일/SMS 전송 기능 개발 실습
