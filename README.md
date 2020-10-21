@@ -68,6 +68,17 @@
   * 아키텍쳐 변경 이후 Spring Data MongoDB 실습
 * [my-todo](https://github.com/elsiff/my-todo) 토이 프로젝트를 통해 WebFlux 기술 실습
 * 개인적인 [Spring 정리](https://docs.google.com/document/d/1Lz9Ca13CtYIKkfaKcjmrDAzOoIkfLidUgZ0Kxza8KhI/edit?usp=sharing)를 통해 Spring 구조 파악 및 기초 지식 습득
+## Java & Kotlin
+* [more-fish](https://github.com/elsiff/more-fish) 개인 프로젝트 진행을 통해 Java와 Kotlin 실습
+  * 기초적인 Java 역량 개발
+  * Singleton, Builder 등 디자인 패턴 실습
+  * Java에서 Kotlin으로의 마이그레이션 실습
+  * Immutable, Null Safety, Data class, Extensions 등 Kotlin의 주요 기능 실습
+* [rebooted](https://github.com/elsiff/rebooted) 개인 프로젝트 진행을 통해 Kotlin 실습
+  * Gradle의 서브모듈 기능과 언어적 상속 기능으로 계층화 구조 실습
+  * Operator Overriding, DSL Builder, Coroutine 등 Kotlin의 고급 기술 실습
+  * Factory Method, Strategy, Observer 등 디자인 패턴 실습
+* 개인적인 [Java & Kotlin 정리](https://docs.google.com/document/d/1gwjISj7CaTU9Ixih2SSCpA8DnnHWOkLS1iHdwvENcsg/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
 ## Network & Web
 * 교내 '컴퓨터 네트워크' 강의로 기초 지식 공부
   * `TIME_WAIT/CLOSE_WAIT`을 발생시키는 Socket 프로그래밍 실습을 통해 TCP 핸드셰이킹 구조 파악 및 `TIME_WAIT`과 `CLOSE_WAIT`의 발생 원인에 대해 학습
