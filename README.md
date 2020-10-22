@@ -76,8 +76,9 @@
   * Immutable, Null Safety, Data class, Extensions 등 Kotlin의 주요 기능 실습
 * [rebooted](https://github.com/elsiff/rebooted) 개인 프로젝트 진행을 통해 Kotlin 실습
   * Gradle의 서브모듈 기능과 언어적 상속 기능으로 계층화 구조 실습
-  * Operator Overloading, DSL Builder, Coroutine 등 Kotlin의 고급 기술 실습
+  * Scoping Functions, Generics & Variance, Reified Type, DSL Builder, Coroutine 등 Kotlin의 고급 기술 실습
   * Factory Method, Strategy, Observer 등 디자인 패턴 실습
+* [bistroad](https://github.com/elsiff/portfolio#bistroad) 팀 프로젝트 진행을 통해 Spring 프레임워크와 Kotlin을 함께 활용해보는 실습 진행
 * 개인적인 [Java & Kotlin 정리](https://docs.google.com/document/d/1gwjISj7CaTU9Ixih2SSCpA8DnnHWOkLS1iHdwvENcsg/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
 ## Network & Web
 * 교내 '컴퓨터 네트워크' 강의로 기초 지식 공부
