@@ -80,6 +80,7 @@
   * Factory Method, Strategy, Observer 등 디자인 패턴 실습
 * [bistroad](https://github.com/elsiff/portfolio#bistroad) 팀 프로젝트 진행을 통해 Spring 프레임워크와 Kotlin을 함께 활용해보는 실습 진행
 * 개인적인 [Java & Kotlin 정리](https://docs.google.com/document/d/1gwjISj7CaTU9Ixih2SSCpA8DnnHWOkLS1iHdwvENcsg/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
+* 개인적인 [객체지향 프로그래밍 정리](https://docs.google.com/document/d/1tH2xGE_OgFdqKNppOwgKP9mjoDeTi6FlMRgF8mz06jc/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
 ## Network & Web
 * 교내 '컴퓨터 네트워크' 강의로 기초 지식 공부
   * `TIME_WAIT/CLOSE_WAIT`을 발생시키는 Socket 프로그래밍 실습을 통해 TCP 핸드셰이킹 구조 파악 및 `TIME_WAIT`과 `CLOSE_WAIT`의 발생 원인에 대해 학습
@@ -87,6 +88,7 @@
 * 교내 '데이터베이스' 강의로 Servlet과 JSP에 대한 기초 지식 공부
   * 교내 종합정보서비스 모방 프로젝트를 통해 JSP로 게시판 구현과 이메일/SMS 전송 기능 개발 실습
 * 개인적인 [네트워크 & 웹 정리](https://docs.google.com/document/d/1LSv7qkLjnOE8lAZu5mOOG8l0920goMBbJnnqbahe3Z4/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
+* 개인적인 [클라우드 정리](https://docs.google.com/document/d/1NaCPN25SjHlRzSWiF-6pSGH5SD4NUacdlw_4rcrTgr8/edit?usp=sharing)를 통해 관련 지식 복습 및 이해
 ## Operating System
 * 교내 '운영체제' 강의로 기초 지식 공부
 * 개인적인 [운영체제 정리](https://docs.google.com/document/d/1LWdCsDp_abuD6ZShF2KqHeCaDxC1vrBG0hF0inU0xCg/edit?usp=sharing)를 통해 기초 지식 복습 및 이해
